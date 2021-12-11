@@ -1,7 +1,6 @@
-import { Categories, PostWidget, Postcard } from "../components";
+import { Categories, PostCard, PostWidget } from "../components";
 
 import Head from "next/head";
-import PostCard from "../components/PostCard";
 
 const posts = [
   { title: "React Testing", excerpt: "Learn React Testing" },
